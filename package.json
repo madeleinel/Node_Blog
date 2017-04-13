@@ -1,0 +1,19 @@
+{
+  "name": "node_blog",
+  "version": "1.0.0",
+  "description": "A blog site set up using node.js (no frameworks)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madeleinel/Node_Blog.git"
+  },
+  "author": "madeleinel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/madeleinel/Node_Blog/issues"
+  },
+  "homepage": "https://github.com/madeleinel/Node_Blog#readme"
+}
